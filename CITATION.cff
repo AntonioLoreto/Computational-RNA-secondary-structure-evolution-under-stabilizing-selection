@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Computational RNA secondary structure evolution under
+  stabilizing selection
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Antonio '
+    family-names: Loreto
+    email: loretoantoniovel@gmail.com
+identifiers:
+  - type: url
+    value: 'https://github.com/AntonioLoreto/NeuConfRNAevo'
+repository-code: 'https://github.com/AntonioLoreto/NeuConfRNAevo'
+license: GPL-3.0
